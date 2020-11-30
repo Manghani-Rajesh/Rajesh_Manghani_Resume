@@ -1,0 +1,34 @@
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "/"
+googleAnalytics = ""
+theme = "hugo-vitae"
+
+[params]
+  author = "Dwai Banerjee"
+  title = "Dwai Banerjee's Resume"
+  description = "Dwai Banerjee's Resume"
+  avatar = "3b27979.jpg"
+  #email = "mail Dwai / "
+  email_full = "mailto:dwai@cloudgear.io?subject=Got your resume"
+  #website = "Resume pdf download"
+  website_full = "http://resume.cloudgear.io/img/DwaiBanerjee.pdf"
+  github = "dwaiba"
+  twitter = "cloudgeario"
+  linkedin = "dbanerj"
+  #tel = "+44 0000 000000"
+  #tel_full = "+440000000000"
+  google_maps = "https://www.google.com/maps/place/Manyata+Tech+Park"
+  #address = "44 Perth Street"
+  #postcode = "EH3 5BL"
+  city = "Bangalore"
+  country = "India"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5

@@ -1,0 +1,42 @@
+name: Skills
+title: Rated
+
+source:
+  - name: [Python, Ansible]
+    stars: 5
+
+  - name: [MySql, MongoDB, SQL Queries, Redis]
+    stars: 4
+    
+  - name: [Linux, UNIX,Bash Scripting]
+    stars: 4
+     
+  - name: [Celery, Rabbitmq]
+    stars: 4
+     
+  - name: [Rest API Developement, Django, Bottle]
+    stars: 3
+    
+  - name: [HTTP, HTTPS, TCP, UDP, FTP, Telnet, SSH]
+    stars: 3
+  
+  - name: [Agile Methodology]
+    stars: 4
+
+  - name: [Data Structure and Algorithm, OOPS concepts]
+    stars: 4
+    
+  - name: [ElasticSearch,Kibana]
+    stars: 3
+    
+  - name: [Docker, Container]
+    stars: 3
+    
+  - name: [Prometheus,Shinken]
+    stars: 3
+     
+  - name: [Nginx]
+    stars: 3
+ 
+    
+  
