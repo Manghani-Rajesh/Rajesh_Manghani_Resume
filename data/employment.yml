@@ -4,8 +4,8 @@ source:
   - prof: Technical Specialist/Python Developer
     place: Philips Healthcare Systems R&D, Philips Campus, India
     time: From December, 2017
-    description: > 
-                  Technical Specialist for IDM Monitoring project, which will monitor Applications and infrastructure across all philips healthcare sites. 
+    description: >
+                 Technical Specialist for IDM Monitoring project, which will monitor Applications and infrastructure across all philips healthcare sites. 
     description1: >
                   Prime Developer for Radiology informatics, HSOP and ISEE products. Requirement Gathering, Design and Development of monitoring features for all these products
     description2: >
@@ -21,7 +21,7 @@ source:
   - prof: Security Researcher/Python Developer
     place: McAfee Software India Pvt Ltd
     time: Feb, 2013 to November, 2017
-    description: > 
+    description: >
                   Develop Portal in python of GoldenEye project in McAfee which will avoid all the manual work.  
     description1: >
                   Automated signature generation framework in place to detect such application with threats.
